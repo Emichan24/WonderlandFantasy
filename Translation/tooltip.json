@@ -78,13 +78,13 @@
     "tooltip.item.spiritLevel":{
         "en":"Spirit Lv",
         "fr":"Nv Esprit",
-        "es":"Nivel Espíritu",
+        "es":"Nivel Alma",
         "zh-cn":"精灵等级",
         "zh-tw":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"Geisterlevel",
+        "de":"Seelenlevel",
         "jp":"",
         "pt":"",
         "vi":"Cấp Tinh Linh",
@@ -97,7 +97,7 @@
     "tooltip.item.spiritSoulLevel":{
         "en":"Soul Lv",
         "fr":"Nv d'Âme",
-        "es":"Nivel Ama",
+        "es":"Nivel Alma",
         "zh-cn":"精魂等级",
         "zh-tw":"",
         "kr":"",
@@ -135,13 +135,13 @@
     "tooltip.item.spirit.talent.title":{
         "en":"Spirit Talent",
         "fr":"Talent d'Esprit",
-        "es":"Talento Espíritu",
+        "es":"Talento Alma",
         "zh-cn":"精灵天赋",
         "zh-tw":"",
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"Geistertalent",
+        "de":"Seelentalent",
         "jp":"",
         "pt":"",
         "vi":"Thiên Phú Tinh Linh",
@@ -236,7 +236,7 @@
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"Maximale Anzahl an Items",
+        "de":"Maximale Anzahl an getragenen Items",
         "jp":"",
         "pt":"",
         "vi":"Lượng Vật Mang Tối Đa",
@@ -268,7 +268,7 @@
     "tooltip.skill.cooldown":{
         "en":"{0} sec cooldown",
         "fr":"{0} sec de recharge",
-        "es":"{0} sec para Utilizar",
+        "es":"{0} sec para utilizar",
         "zh-cn":"{0} 秒冷却时间",
         "zh-tw":"",
         "kr":"",
@@ -342,7 +342,7 @@
         "id":"Whisper"
     },
     "tooltip.player-menu.copy-name":{
-        "en":"Copy name",
+        "en":"Copy Name",
         "fr":"Copier le nom",
         "es":"Copiar el nombre",
         "zh-cn":"复制姓名",
@@ -380,7 +380,7 @@
         "id":"Undang Grup"
     },
     "tooltip.player-menu.group-set-new-leader":{
-        "en":"Set new leader",
+        "en":"Set new Leader",
         "fr":"Changer leader",
         "es":"Establecer un nuevo jefe",
         "zh-cn":"设为队长",
@@ -399,7 +399,7 @@
         "id":"Tetapkan pemimpin baru"
     },
     "tooltip.player-menu.group-expel":{
-        "en":"Expel from group",
+        "en":"Expel from Group",
         "fr":"Expulser du groupe",
         "es":"Expulsar del grupo",
         "zh-cn":"踢出队伍",
@@ -418,7 +418,7 @@
         "id":"Keluarkan dari grup"
     },
     "tooltip.player-menu.group-leave":{
-        "en":"Leave group",
+        "en":"Leave Group",
         "fr":"Partir du groupe",
         "es":"Dejar el grupo",
         "zh-cn":"离开队伍",
@@ -464,7 +464,7 @@
         "kr":"",
         "ru":"",
         "tr":"",
-        "de":"(Ausrüstung) Überprüfen",
+        "de":"Ausrüstung überprüfen",
         "jp":"",
         "pt":"",
         "vi":"Kiểm Đồ",
@@ -496,7 +496,7 @@
     "tooltip.player-menu.add-friend":{
         "en":"Add friend",
         "fr":"Ajouter amis",
-        "es":"Anadir amigos",
+        "es":"Añadir amigos",
         "zh-cn":"",
         "zh-tw":"",
         "kr":"",
@@ -534,7 +534,7 @@
     "tooltip.player-menu.add-foe":{
         "en":"Add foe",
         "fr":"Ajouter ennemis",
-        "es":"Anadir Enemigo",
+        "es":"Añadir Enemigo",
         "zh-cn":"",
         "zh-tw":"",
         "kr":"",
