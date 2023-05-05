@@ -4689,7 +4689,7 @@ locale["npc.100043.name"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Kreuzfahrermarschall",
+	"de": "Kreuzritter-Marschall",
 	"jp": "",
 	"pt": "",
 	"vi": "Thống Soái Thập Tự",
