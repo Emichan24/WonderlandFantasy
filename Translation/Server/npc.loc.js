@@ -6505,7 +6505,7 @@ locale["npc.241008.name"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Styptisches Gras",
+	"de": "Blutstillendes Gras",
 	"jp": "",
 	"pt": "",
 	"vi": "Thảo Mộc",
