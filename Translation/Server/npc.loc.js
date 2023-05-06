@@ -6524,7 +6524,7 @@ locale["npc.241009.name"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "Henbane",
+	"de": "Bilsenkraut",
 	"jp": "",
 	"pt": "",
 	"vi": "Bạch Anh",
