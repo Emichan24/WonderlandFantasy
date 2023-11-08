@@ -14203,7 +14203,7 @@ locale["quest.179.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span> im Hafen von Muradin.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100047'>Clapton</span> ở Cảng Muradin",
@@ -14214,7 +14214,7 @@ locale["quest.179.texts.objective"] = {
 	"id": ""
 };
 locale["quest.179.texts.description"] = {
-	"en": "You have been really helpful, but it seem someone else need your services. I've heard that some people started disappearing in Letin. Go find Clapton in Muradin Harbor and ask him to get you there. You've shown a great strength and I'm sure you can help them better than I could. Hey, thanks for the help.",
+	"en": "You have been really helpful, but it seem someone else need your services. I've heard that some people started disappearing in Letin. Go find Clapton in Muradin Harbor and ask him to get you there. You've shown great strength and I'm sure you can help them better than I could. Hey, thanks for the help.",
 	"fr": "Vous m'avez été très utile, mais il semble que quelqu'un d'autre ait besoin de vos services. J'ai entendu dire que certaines personnes ont commencé à disparaître à Letin. Allez trouver Clapton au Port de Muradin et demandez-lui de vous y emmener. Vous avez fait preuve d'une grande force et je suis sûr que vous pourrez les aider mieux que moi. Hey, merci pour l'aide.",
 	"es": "",
 	"zh-cn": "",
@@ -14222,7 +14222,7 @@ locale["quest.179.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Du warst sehr hilfreich, aber jemand anderes braucht nun deine Kräfte. Ich habe gehört, dass Leute in Letin anfangen zu verschwinden. Finde Clapton im Hafen von Muradin und bitte ihn, dich dorthin zu bringen. Du hast große Stärke bewiesen und ich bin mir sicher, dass du ihnen besser helfen kannst als ich. Hey, vielen Dank nochmal für die Hilfe.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi đã rất là hữu ích đấy, nhưng có vẻ như những người khác vẫn cần sự phục vụ từ ngươi. Ta nghe nói rằng có một vài người đã biến mất ở Letin. Đi tìm Clapton ở Cảng Muradin và hỏi anh ta để đến được nơi cần đến. Ngươi đã thể hiện một sức mạnh tuyệt vời và ta chắc chắn ngươi có thể giúp họ hơn là ta. Này, cảm ơn rất nhiều vì đã giúp.",
@@ -14241,7 +14241,7 @@ locale["quest.179.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Du willst wirklich nach Letin?",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi thật sự muốn đi đến Letin?",
@@ -14261,7 +14261,7 @@ locale["quest.180.name"] = {
 	"kr":"",
 	"ru":"",
 	"tr":"",
-	"de":"",
+	"de":"Rätselhaftes Verschwinden (2)",
 	"jp":"",
 	"pt":"",
 	"vi": "Sự Biến Mất Đáng Lo Ngại (2)",
@@ -14280,7 +14280,7 @@ locale["quest.180.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> auf dem Letin-Platz.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14299,7 +14299,7 @@ locale["quest.180.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Ich habe gehört, dass Kovu nach Hilfe verlangt. Er ist ein Adliger, der am Letin-Platz lebt.<br><br> Er hat viel auf sich genommen, um diesen Platz hier sicher zu machen, aber einige Leute sind nun spurlos verschwunden. Die Spannung ist demnach groß hier. Er stellt jeden ein, der bereit ist, sein Leben zu riskieren , um ihm zu helfen.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14318,7 +14318,7 @@ locale["quest.180.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Ich grüße Sie. Wie kann ich Ihnen helfen?",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14338,7 +14338,7 @@ locale["quest.181.name"] = {
 	"kr":"",
 	"ru":"",
 	"tr":"",
-	"de":"",
+	"de":"Rätselhaftes Verschwinden (3)",
 	"jp":"",
 	"pt":"",
 	"vi": "Sự Biến Mất Đáng Lo Ngại (3)",
@@ -14357,7 +14357,7 @@ locale["quest.181.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Töte einige <span class='text-link' data-target-type='mob' data-target-id='87'>Hasen</span> in der Straße des Requiems, bevor du zu <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> am Letin-Platz zurückkehrst.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14368,15 +14368,15 @@ locale["quest.181.texts.objective"] = {
 	"id": ""
 };
 locale["quest.181.texts.description"] = {
-	"en": "Ho, so you want to help me? Right, great! Some people has gone missing. Although certain are know for going out for month, sending little updated on their states, some citizen have gone out and never reterned.<br><br>I would like you to help me and start by clearing the Road of Requiem of those dangerous bunnies.<br>Yeah, you heard right. Recently those little innocent creatures started to go crazy. One of our guard even saw one jumping at the throat of another guard.<br><br>Remember, if you see anything that seems weird, please notify me, and thanks for the hand.",
-	"fr": "Ho, alors vous voulez m'aider? Bien, excelent! Quelques personnes ont été portés disparue. Même si certains sont connus pour leurs expedition sur plusieurs mois a l'exterieur de ces mur, ne nous tenant que très peu informé de leur etat, certains citoyens sont sortis et ne sont jamais reparus.<br><br>Je voudrais que vous m'aidiez, à commencer par le nettoyage de la Route de Requiem de ces dangereux lapins.<br>Oui, vous avez bien entendu. Récemment, ces petites créatures innocentes ont commencé à devenir folles. Un de nos gardes en a même vu un sauter à la gorge d'un autre garde.<br><br>N'oubliez pas, si vous voyez quelque chose qui semble bizarre, s'il vous plaît informez-moi, et merci pour la main.",
+	"en": "Ho, so you want to help me? Right, great! Some people has gone missing. Although certain are known for going out for months, sending little updates on their states, some citizens have gone out and never returned.<br><br>I would like you to help me and start by clearing the Road of Requiem of those dangerous bunnies.<br>Yeah, you heard right. Recently those little innocent creatures started to go crazy. One of our guard even saw one jumping at the throat of another guard.<br><br>Remember, if you see anything that seems weird, please notify me, and thanks for the hand.",
+	"fr": "Ho, alors vous voulez m'aider? Bien, excellent! Quelques personnes ont été portés disparue. Même si certains sont connus pour leurs expedition sur plusieurs mois a l'exterieur de ces mur, ne nous tenant que très peu informé de leur etat, certains citoyens sont sortis et ne sont jamais reparus.<br><br>Je voudrais que vous m'aidiez, à commencer par le nettoyage de la Route de Requiem de ces dangereux lapins.<br>Oui, vous avez bien entendu. Récemment, ces petites créatures innocentes ont commencé à devenir folles. Un de nos gardes en a même vu un sauter à la gorge d'un autre garde.<br><br>N'oubliez pas, si vous voyez quelque chose qui semble bizarre, s'il vous plaît informez-moi, et merci pour la main.",
 	"es": "",
 	"zh-cn": "",
 	"zh-tw": "",
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Oh, Sie wollen mir helfen? Exzellent, großartig! Ein paar Bürger gelten als vermisst. Auch wenn einige dafür bekannt sind, monatelang zu verreisen und uns wenige bis gar keine Informationen über ihren Status zu schicken, so sind viele nun fort und kehren auch nicht mehr zurück.<br><br> Ich hoffe auf Ihre Hilfe und bitte Sie, mit dem Säubern der Straße des Requiems zu beginnen, wo gefährliche Hasen hausen.<br> Ja, Sie haben richtig gehört. Seit kurzem sind diese kleinen, unschuldigen Wesen durchgedreht. Einer unserer Wachen hat sogar einen Hasen dabei beobachtet, wie er einem anderen an die Gurgel springt.<br><br> Denken Sie daran, sobald sie was Seltsames sehen, benachrichtigen Sie mich, und haben Sie Dank für Ihre Hilfe.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14395,7 +14395,7 @@ locale["quest.181.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Was haben Sie gesehen? Wandelnde Pilze? Sind Sie sicher, dass Sie nicht doch welche gegessen haben?",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14415,7 +14415,7 @@ locale["quest.182.name"] = {
 	"kr":"",
 	"ru":"",
 	"tr":"",
-	"de":"",
+	"de":"Rätselhaftes Verschwinden (4)",
 	"jp":"",
 	"pt":"",
 	"vi": "Sự Biến Mất Đáng Lo Ngại (4)",
@@ -14434,7 +14434,7 @@ locale["quest.182.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Töte einige <span class='text-link' data-target-type='mob' data-target-id='86'>Champi</span> in der Straße des Requiems und kehre zu <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> am Letin-Platz zurück.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14445,7 +14445,7 @@ locale["quest.182.texts.objective"] = {
 	"id": ""
 };
 locale["quest.182.texts.description"] = {
-	"en": "Ok. I know some rumors talked about mushroom moving on their own deep in the Uncharted Forest, but no one seem to ever have saw one here. And you say there is plenty of them, here, right next to the city's doors. Well, if it's the case, you better get going on your way to kill them. Them being here can only mean one thing, and it's not a good sight for all of us. I truly hope you are wrong. May Bur protect you.",
+	"en": "Ok. I know some rumors talked about mushrooms moving on their own deep in the Uncharted Forest, but no one seems to ever have seen one here. And you say there is plenty of them, here, right next to the city's doors. Well, if it's the case, you better get going on your way to kill them. Them being here can only mean one thing, and it's not a good sight for all of us. I truly hope you are wrong. May Bur protect you.",
 	"fr": "Ok. Je sais que certaines rumeurs parlent de champignons qui se déplacent seuls dans la forêt vierge, mais personne ne semble en avoir vu ici. Et vous dites qu'il y en a plein, ici, juste à côté des portes de la ville. Eh bien, si c'est le cas, vous feriez mieux de vous mettre en route pour les tuer. Leur présence ici ne peut signifier qu'une chose, et ce n'est pas une bonne chose pour nous tous. J'espère vraiment que vous avez tort. Que Bur te protège.",
 	"es": "",
 	"zh-cn": "",
@@ -14453,7 +14453,7 @@ locale["quest.182.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Ok. Ich weiß, dass einige Gerüchte im Umlauf sind, die von wandelnden Pilzen im Unerforschten Wald berichten, aber niemand hat dort je welche gesehen. Und Sie sagen nun, dass es viele gibt, hier, gleich neben den Toren der Stadt. Naja, sollte das der Fall sein, dann sollten Sie sich besser auf den Weg machen, um sie zu töten. Wenn sie hier sind, kann das nur eins bedeuten und das ist wahrlich nichts Gutes für uns. Ich hoffe inständig, dass Sie sich irren. Möge Bur Sie schützen.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14472,7 +14472,7 @@ locale["quest.182.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Also war es wahr.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14492,7 +14492,7 @@ locale["quest.183.name"] = {
 	"kr":"",
 	"ru":"",
 	"tr":"",
-	"de":"",
+	"de":"Rätselhaftes Verschwinden (5)",
 	"jp":"",
 	"pt":"",
 	"vi": "Sự Biến Mất Đáng Lo Ngại (5)",
@@ -14511,7 +14511,7 @@ locale["quest.183.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Töte die <span class='text-link' data-target-type='mob' data-target-id='101'>Glutrote Blume</span> in der Straße des Requiems und statte dann <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> am Letin-Platz Bericht.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14530,7 +14530,7 @@ locale["quest.183.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Also war es wahr. Ich bin erschüttert über die Auswirkungen dieser Neuigkeiten. Ein Wächter hat vor wenigen Minuten eine starke Kreatur gemeldet, die aus dem Unerforschten Wald kam. Er meinte, eine Pflanze sei zum Leben erwacht und habe versucht, ihn zu töten. Ich wollte Ihm keinen Glauben schenken, aber jetzt muss ich der Wahrheit ins Auge sehen. Gehen Sie bitte dorthin und beseitigen Sie das Gestrüpp, während ich Vorkehrungen für die Sicherheit der Stadt treffe.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14549,7 +14549,7 @@ locale["quest.183.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Großartig. Ich danke Ihnen für Ihre Tatkraft.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14569,7 +14569,7 @@ locale["quest.184.name"] = {
 	"kr":"",
 	"ru":"",
 	"tr":"",
-	"de":"",
+	"de":"Rätselhaftes Verschwinden (6)",
 	"jp":"",
 	"pt":"",
 	"vi": "Sự Biến Mất Đáng Lo Ngại (6)",
@@ -14588,7 +14588,7 @@ locale["quest.184.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Suche in den Sufer-Ruinen nach dem vermissten Bürger.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14599,7 +14599,7 @@ locale["quest.184.texts.objective"] = {
 	"id": ""
 };
 locale["quest.184.texts.description"] = {
-	"en": "I have sent guards and mercenaries all over this continent and they are searching for the source of all of this. A plague is killing this lands. We already where fighting those monsters for decades, but now this! We have to find the source of it! But this is another matter. I fear that you have the hardest task of all. You will have to search for the lost ones. You can start by searching in the Sufer Ruins. Good luck.",
+	"en": "I have sent guards and mercenaries all over this continent and they are searching for the source of all of this. A plague is killing these lands. We already where fighting those monsters for decades, but now this! We have to find the source of it! But this is another matter. I fear that you have the hardest task of all. You will have to search for the lost ones. You can start by searching in the Sufer Ruins. Good luck.",
 	"fr": "J'ai envoyé des gardes et des mercenaires sur tout le continent et ils cherchent la source de tout ceci. Une épidémie est en train de tuer ces terres. Nous avons déjà combattu ces monstres pendant des décennies, mais maintenant ça ! Nous devons trouver la source de tout ça ! Mais c'est une autre affaire. Je crains que vous n'ayez la tâche la plus difficile de toutes. Vous allez devoir rechercher les disparus. Vous pouvez commencer par chercher dans les ruines de Sufer. Bonne chance.",
 	"es": "",
 	"zh-cn": "",
@@ -14607,7 +14607,7 @@ locale["quest.184.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Ich habe Wächter und Söldner auf dem ganzen Kontinent verteilt, damit sie nach der Quelle von alledem hier suchen. Eine Plage tötet diese Länder. Wir haben diese Monster schon seit Jahrzehnten bekämpft, und nun das! Wir müssen den Grund hierfür finden! Aber das ist eine Angelegenheit für sich. Ich fürchte, Sie haben das schwerste Los gezogen. Sie müssen die Vermissten finden. Sie sollten Ihre Suche bei den Sufer-Ruinen beginnen. Viel Erfolg.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14646,7 +14646,7 @@ locale["quest.185.name"] = {
 	"kr":"",
 	"ru":"",
 	"tr":"",
-	"de":"",
+	"de":"Rätselhaftes Verschwinden (7)",
 	"jp":"",
 	"pt":"",
 	"vi": "Sự Biến Mất Đáng Lo Ngại (7)",
@@ -14665,7 +14665,7 @@ locale["quest.185.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Töte einige <span class='text-link' data-target-type='mob' data-target-id='88'>Kappas</span> und <span class='text-link' data-target-type='mob' data-target-id='89'>Starke Wildschweine</span> in den Sufer-Ruinen, bevor du <span class='text-link' data-target-type='npc' data-target-id='100073'>Kovu</span> die schlechte Nachricht überbringst.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14684,7 +14684,7 @@ locale["quest.185.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "<i> Du siehst einen Bürger auf dem Boden liegen. Du untersuchst ihn und stellst fest, dass er von den Monstern in der Umgebung getötet wurde. Du atmest die abgestandene Luft dieser Stadt tief ein und gerätst auf einmal in einen Zustand unkontrollierbarer Wut.</i>",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14703,7 +14703,7 @@ locale["quest.185.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Oh, also haben Sie einen Bürger gefunden, tot. Das sind traurige Neuigkeiten.",
 	"jp": "",
 	"pt": "",
 	"vi": "",
@@ -14724,7 +14724,7 @@ locale["quest.10006.name"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Eine Waffe verstärken - Schmied",
 	"jp": "",
 	"pt": "",
 	"vi": "Cường Hóa Vũ Khí - Thợ Rèn",
@@ -14743,7 +14743,7 @@ locale["quest.10006.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Kehre nach Kain zurück und finde den Schmied <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>, er wird dir zeigen, wie du Waffen verstärkst.",
 	"jp": "",
 	"pt": "",
 	"vi": "Quay về Cain, tìm ngươi thợ rèn <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>, anh ta sẽ dạy cho bạn cách cường hóa vũ khí.",
@@ -14762,7 +14762,7 @@ locale["quest.10006.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Ich habe gesagt, dass ich eine gute Waffe habe, deine ist es hingegen nicht. Naja, du kannst unseren Schmied Rudolf besuchen. Er kann dir helfen, deine Waffe zu verbessern. Glaub' mir, er ist ein guter Mann.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ta đã nói là ta mới có vũ khí tốt, còn ngươi thì không tốt. Thì, ngươi có thể gặp người thợ rèn Rudolf. Anh ta có thể giúp ngươi nâng cấp vũ khí đấy. Tin ta đi, ông ta là một người tốt.",
@@ -14773,7 +14773,7 @@ locale["quest.10006.texts.description"] = {
 	"id": ""
 };
 locale["quest.10006.texts.returnPopupMain"] = {
-	"en": "You mean that weird collector asked you to find me? Well, it seems the stone he left here last time is usefull now. By the way, though people say he is weird, he is warm-heated, and ofter helps adventurers.",
+	"en": "You mean that weird collector asked you to find me? Well, it seems the stone he left here last time is usefull now. By the way, even though people say he is weird, he is warm-heated, and ofter helps adventurers.",
 	"fr": "Tu veux dire que ce collectionneur bizarre t'a demandé de me trouver? Eh bien, il semble que la pierre qu'il a laissée ici la dernière fois soit utile maintenant. Au fait, bien que les gens disent qu'il est bizarre, il a bon coeur et aide souvent les aventuriers.",
 	"es": "",
 	"zh-cn": "你是说那个古怪的收藏家让你找我？看来他上次留下的石头现在有用了.顺便说一句,虽然人们说他很古怪,但他很热情,经常帮助冒险家.",
@@ -14781,7 +14781,7 @@ locale["quest.10006.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Du meinst also, dass dieser komische Sammler dir geraten hat, mich aufzusuchen? Na gut, es sieht wohl so aus, als wäre der Stein, den er hier zurückgelassen hat, nun doch nützlich. Übrigens, auch wenn Leute behaupten, er sei komisch, so ist er eigentlich warmherzig und hilft oft neuen Abenteurern.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ý của người là tên thích thu thập kỳ quái đó bảo ngươi đến gặp ta ý hả? Thì, xem ra viên đá hắn bỏ lại lần trước sẽ bây giờ mới có tác dụng rồi đó. À mà, mặc dù mọi người nghĩ hắn ta lập dị, thì cũng là một người có trái tim ấm áp, và thường xuyên giúp mạo hiểm giả nhiều lắm.",
@@ -14801,7 +14801,7 @@ locale["quest.10007.name"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Eine Waffe verstärken - Upgrade",
 	"jp": "",
 	"pt": "",
 	"vi": "Cường Hóa Vũ Khí - Nâng Cấp",
@@ -14820,7 +14820,7 @@ locale["quest.10007.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Verstärke deine Waffe, kehre nach Kain zurück und berichte dem Schmied <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span> davon.<br><br><i>Zur Verstärkung einer Waffe, öffne deinen Rucksack, klicke auf den 'Befestigung'-Knopf, ziehe das gewünschte Item in das Fenster und klicke dann zur Validierung auf den 'Upgrade'-Knopf.</i>",
 	"jp": "",
 	"pt": "",
 	"vi": "Đi cường hóa vũ khí của bạn, sau đó quay về Cain và báo cáo lại cho người thợ rèn <span class='text-link' data-target-type='npc' data-target-id='100045'>Rudolf</span>.<br><br><i>Để cường hóa, mở túi ra, nhấn vào nút 'Cường', kéo vật phẩm mà bạn muốn nâng cấp vào ô cửa sổ cường hóa, và nhấn và nút để xác nhận việc cường hóa.</i>",
@@ -14839,7 +14839,7 @@ locale["quest.10007.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Bist du überrascht von meiner Güte?<br><br> Beginnen wir mit dem Upgrade-Prozess! Es kann deine Angriffs- und Verteidigungskünste um einiges verbessern.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi có ngạc nhiên trước vẻ thân thiện của ta không?<br><br>Hãy bắt đầu quá trình nâng cấp! Nó sẽ tăng mạnh khả năng tấn công và phòng thủ của bạn",
@@ -14858,7 +14858,7 @@ locale["quest.10007.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "...",
 	"jp": "",
 	"pt": "",
 	"vi": "...",
@@ -14877,7 +14877,7 @@ locale["quest.10007.objective.0.name"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Eine Waffe verstärken",
 	"jp": "",
 	"pt": "",
 	"vi": "Nâng Cấp Vũ Khí",
@@ -14888,26 +14888,26 @@ locale["quest.10007.objective.0.name"] = {
 	"id": ""
 };
 
-locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1003.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1004.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1005.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1000.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "Lv. 5 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1001.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "Lv. 5 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1002.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "Lv. 5 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1003.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "Lv. 5 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1004.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "Lv. 5 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1005.name"] = {"en": "Learning Lv.5 Skills","fr": "Apprentissage Nv.5","es": "","zh-cn": "学习5级技能","kr": "","ru": "","tr": "","de": "Lv. 5 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 5","ar": "","it": "","pl": "","th": "","id": ""};
 
-locale["quest.1006.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1007.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1008.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1009.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1010.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1011.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1006.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "Lv. 10 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1007.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "Lv. 10 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1008.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "Lv. 10 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1009.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "Lv. 10 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1010.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "Lv. 10 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1011.name"] = {"en": "Learning Lv.10 Skills","fr": "Apprentissage Nv.10","es": "","zh-cn": "学习10级技能","kr": "","ru": "","tr": "","de": "Lv. 10 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 10","ar": "","it": "","pl": "","th": "","id": ""};
 
-locale["quest.1012.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1013.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1014.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1015.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1016.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
-locale["quest.1017.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1012.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "Lv. 15 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1013.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "Lv. 15 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1014.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "Lv. 15 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1015.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "Lv. 15 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1016.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "Lv. 15 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
+locale["quest.1017.name"] = {"en": "Learning Lv.15 Skills","fr": "Apprentissage Nv.15","es": "","zh-cn": "学习15级技能","kr": "","ru": "","tr": "","de": "Lv. 15 Skills erlernen","jp": "","pt": "","vi": "Học Kỹ Năng Cấp 15","ar": "","it": "","pl": "","th": "","id": ""};
 
 //Lvl 5 part 1
 locale["quest.1000.texts.returnPopupMain"] = {
@@ -14919,7 +14919,7 @@ locale["quest.1000.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Hört mal gut zu, Jungspunde. Wenn ihr einen Gegner bekämpft, dann tötet ihr ihn oder ihr schreibt euer Testament.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nghe cho kĩ đây. Khi chiến đấu, giết kè thù hoặc về với chốn yên ngủ ngàn thu.",
@@ -14938,7 +14938,7 @@ locale["quest.1001.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Hört mal gut zu, Jungspunde. Wenn ihr einen Gegner bekämpft, dann tötet ihr ihn oder ihr schreibt euer Testament.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nghe cho kĩ đây. Khi chiến đấu, giết kè thù hoặc về với chốn yên ngủ ngàn thu.",
@@ -14949,7 +14949,7 @@ locale["quest.1001.texts.returnPopupMain"] = {
 	"id": ""
 };
 locale["quest.1002.texts.returnPopupMain"] = {
-	"en": "There is no end in learning. You are young and ignorent in the world of wisdom. You still have a long way way to go.",
+	"en": "There is no end in learning. You are young and ignorant in the world of wisdom. You still have a long way way to go.",
 	"fr": "L'apprentissage ne s'arrête jamais. Vous êtes jeune et ignorant dans le monde de la connaissance. Vous avez beaucoup de chemin à faire.",
 	"es": "",
 	"zh-cn": "学习没有终点.在智慧海洋里,你年轻无知.还有很长的路要走.",
@@ -14957,7 +14957,7 @@ locale["quest.1002.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Man lernt nie aus. Du bist jung und ignorant der Welt des Wissens gegenüber. Du hast noch einen langen Weg vor dir.",
 	"jp": "",
 	"pt": "",
 	"vi": "Học hành là việc cả đời. Khi còn trẻ và chưa thấu hiểu về của tri thức thế giới. Đồng nghĩa với việc ngươi còn cả một chặng đường dài phía trước để đi.",
@@ -14976,7 +14976,7 @@ locale["quest.1000.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit dem Schwertmeister <span class='text-link' data-target-type='npc' data-target-id='100009'>Sid</span>.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nói Chuyện Với Bậc Thầy Kiếm Sư <span class='text-link' data-target-type='npc' data-target-id='100009'>Sid</span>.",
@@ -14995,7 +14995,7 @@ locale["quest.1001.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit dem Bogenschützen <span class='text-link' data-target-type='npc' data-target-id='100007'>Phil</span>.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nói Chuyện Với Thợ Săn <span class='text-link' data-target-type='npc' data-target-id='100007'>Phil</span>.",
@@ -15014,7 +15014,7 @@ locale["quest.1002.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit dem Magier <span class='text-link' data-target-type='npc' data-target-id='100010'>Schlein</span>.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nói chuyện với Phù Thủy <span class='text-link' data-target-type='npc' data-target-id='100010'>Schlein</span>.",
@@ -15028,7 +15028,7 @@ locale["quest.1002.texts.objective"] = {
 
 //Lvl 5 part 2
 locale["quest.1003.texts.objective"] = {
-	"en": "Talk to Bur's harbringer <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> and she will bless you.",
+	"en": "Talk to Bur's harbinger <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> and she will bless you.",
 	"fr": "Parlez à la méssagère de Bur <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
 	"es": "",
 	"zh-cn": "与瓦恩的使者<span class='text-link' data-target-type='npc' data-target-id='100011'>阿比莉尔</span>交谈,她会祝福你.",
@@ -15036,7 +15036,7 @@ locale["quest.1003.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit Burs Botin <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> und sie wird dich segnen.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nói chuyện với tình báo Của Bur <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> và cô ta sẽ chúc phúc bạn.",
@@ -15047,7 +15047,7 @@ locale["quest.1003.texts.objective"] = {
 	"id": ""
 };
 locale["quest.1004.texts.objective"] = {
-	"en": "Talk to Bur's harbringer <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> and she will bless you.",
+	"en": "Talk to Bur's harbinger <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> and she will bless you.",
 	"fr": "Parlez à la méssagère de Bur <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> et elle vous bénira",
 	"es": "",
 	"zh-cn": "与瓦恩的使者<span class='text-link' data-target-type='npc' data-target-id='100011'>阿比莉尔</span>交谈,她会祝福你.",
@@ -15055,7 +15055,7 @@ locale["quest.1004.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit Burs Botin <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> und sie wird dich segnen.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nói chuyện với tình báo Của Bur <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> và cô ta sẽ ban phước cho bạn.",
@@ -15074,7 +15074,7 @@ locale["quest.1005.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit Burs Botin <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> und sie wird dich segnen.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nói chuyện với tình báo Của Bur <span class='text-link' data-target-type='npc' data-target-id='100011'>Abiril</span> và cô ta sẽ chúc phúc bạn.",
@@ -15093,7 +15093,7 @@ locale["quest.1003.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Du wünschst dir bessere Fähigkeiten? Ich kann dich vieles lehren. Aber davor musst du dich bewähren.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi muốn có các kỹ năng tốt hơn sao? Ta có thể dạy cho ngươi nhiều lắm. Trước đó, ngươi phải chứng tỏ là mình xứng đáng.",
@@ -15112,7 +15112,7 @@ locale["quest.1004.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Du wünschst dir bessere Fähigkeiten? Ich kann dich vieles lehren. Aber davor musst du dich bewähren.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi muốn có các kỹ năng tốt hơn sao? Ta có thể dạy cho ngươi nhiều lắm. Trước đó, ngươi phải chứng tỏ là mình xứng đáng.",
@@ -15131,7 +15131,7 @@ locale["quest.1005.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Du wünschst dir bessere Fähigkeiten? Ich kann dich vieles lehren. Aber davor musst du dich bewähren.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi muốn có các kỹ năng tốt hơn sao? Ta có thể dạy cho ngươi nhiều lắm. Trước đó, ngươi phải chứng tỏ là mình xứng đáng.",
@@ -15150,7 +15150,7 @@ locale["quest.1003.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Hast du die Wärme gespürt? Gewöhn' dich an diese Kraft.<br><br> Ich werde dich weiter trainieren, sodass du dem Bösen trotzen und Harlan besiegen kannst.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi đã cảm nhận được sự ấm áp chưa? Hãy làm quen với sức mạnh này.<br><br>Ta sẽ nâng trình ngươi lên để ngươi có khả năng chống chịu quỷ dữ của ngươi và đánh bại Harlan.",
@@ -15169,7 +15169,7 @@ locale["quest.1004.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Hast du die Wärme gespürt? Gewöhn' dich an diese Kraft.<br><br> Ich werde dich weiter trainieren, sodass du dem Bösen trotzen und Harlan besiegen kannst.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi đã cảm nhận được sự ấm áp chưa? Hãy làm quen với sức mạnh này.<br><br>Ta sẽ nâng trình ngươi lên để ngươi có khả năng chống chịu quỷ dữ của ngươi và đánh bại Harlan.",
@@ -15188,7 +15188,7 @@ locale["quest.1005.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Hast du die Wärme gespürt? Gewöhn' dich an diese Kraft.<br><br> Ich werde dich weiter trainieren, sodass du dem Bösen trotzen und Harlan besiegen kannst.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi đã cảm nhận được sự ấm áp chưa? Hãy làm quen với sức mạnh này.<br><br>Ta sẽ nâng trình ngươi lên để ngươi có khả năng chống chịu quỷ dữ của ngươi và đánh bại Harlan.",
@@ -15210,7 +15210,7 @@ locale["quest.1006.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Ein anderes Kind, das von Garnias verwöhnt wird? Ich bin nicht wie sie. Ich mag Kinder nicht. Sei bereit für das was folgt.",
 	"jp": "",
 	"pt": "",
 	"vi": "Lại một đứa Garnias làm hư hỏng sao? Ta không giống cô ta. Ta không ưa loại trẻ con. Tự mà sẵn sàng cho điều sắp tới đi.",
@@ -15229,7 +15229,7 @@ locale["quest.1007.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Ein anderes Kind, das von Garnias verwöhnt wird? Ich bin nicht wie sie. Ich mag Kinder nicht. Sei bereit für das was folgt.",
 	"jp": "",
 	"pt": "",
 	"vi": "Lại một đứa Garnias làm hư hỏng sao? Ta không giống cô ta. Ta không ưa loại trẻ con. Tự mà sẵn sàng cho điều sắp tới đi.",
@@ -15248,7 +15248,7 @@ locale["quest.1008.texts.returnPopupMain"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Ein anderes Kind, das von Garnias verwöhnt wird? Ich bin nicht wie sie. Ich mag Kinder nicht. Sei bereit für das was folgt.",
 	"jp": "",
 	"pt": "",
 	"vi": "Lại một đứa Garnias làm hư hỏng sao? Ta không giống cô ta. Ta không ưa loại trẻ con. Tự mà sẵn sàng cho điều sắp tới đi.",
@@ -15267,7 +15267,7 @@ locale["quest.1006.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span> und sie bringt dir eine neue Fähigkeit bei.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span> và cô ấy sẽ dạy cho bạn một kỹ năng mới.",
@@ -15286,7 +15286,7 @@ locale["quest.1007.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span> und sie bringt dir eine neue Fähigkeit bei.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span> và cô ấy sẽ dạy cho bạn một kỹ năng mới.",
@@ -15305,7 +15305,7 @@ locale["quest.1008.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Sprich mit <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span> und sie bringt dir eine neue Fähigkeit bei.",
 	"jp": "",
 	"pt": "",
 	"vi": "Nói chuyện với <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span> và cô ấy sẽ dạy cho bạn một kỹ năng mới.",
@@ -15326,7 +15326,7 @@ locale["quest.1009.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Töte einige <span class='text-link' data-target-type='mob' data-target-id='7'>Wildschweine</span> in den Bestienwäldern und melde dich dann bei <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span><br><br> Du kriegst ein Lv. 10 Fähigkeitenbuch, wenn du diese Quest beendest.",
 	"jp": "",
 	"pt": "",
 	"vi": "Tiêu diệt một vài con <span class='text-link' data-target-type='mob' data-target-id='7'>Lợn Rừng</span> trong Khu Rừng Quái Thú, và báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span><br><br>Bạn có thể nhận được sách kỹ năng cấp 10 khi hoàn thành nhiệm vụ.",
@@ -15345,7 +15345,7 @@ locale["quest.1010.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Töte einige <span class='text-link' data-target-type='mob' data-target-id='7'>Wildschweine</span> in den Bestienwäldern und melde dich dann bei <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span><br><br> Du kriegst ein Lv. 10 Fähigkeitenbuch, wenn du diese Quest beendest.",
 	"jp": "",
 	"pt": "",
 	"vi": "Tiêu diệt một vài con <span class='text-link' data-target-type='mob' data-target-id='7'>Lợn Rừng</span> trong Khu Rừng Quái Thú, và báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span><br><br>Bạn có thể nhận được sách kỹ năng cấp 10 khi hoàn thành nhiệm vụ.",
@@ -15364,7 +15364,7 @@ locale["quest.1011.texts.objective"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Töte einige <span class='text-link' data-target-type='mob' data-target-id='7'>Wildschweine</span> in den Bestienwäldern und melde dich dann bei <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span><br><br> Du kriegst ein Lv. 10 Fähigkeitenbuch, wenn du diese Quest beendest.",
 	"jp": "",
 	"pt": "",
 	"vi": "Tiêu diệt một vài con <span class='text-link' data-target-type='mob' data-target-id='7'>Lợn Rừng</span> trong Khu Rừng Quái Thú, và báo cáo cho <span class='text-link' data-target-type='npc' data-target-id='100013'>Aclair</span><br><br>Bạn có thể nhận được sách kỹ năng cấp 10 khi hoàn thành nhiệm vụ.",
@@ -15383,7 +15383,7 @@ locale["quest.1009.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Jeder Rekrut muss diese Prüfung bestehen, um zu beweisen, dass er bereit für die zukünftige Reise ist. ...",
 	"jp": "",
 	"pt": "",
 	"vi": "Người mới phải làm bài thi thử, điều đó chứng tỏ một người đã sẵn sàng cho hành trình tương lai. ...",
@@ -15402,7 +15402,7 @@ locale["quest.1010.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Jeder Rekrut muss diese Prüfung bestehen, um zu beweisen, dass er bereit für die zukünftige Reise ist. ...",
 	"jp": "",
 	"pt": "",
 	"vi": "Người mới phải làm bài thi thử, điều đó chứng tỏ một người đã sẵn sàng cho hành trình tương lai. ...",
@@ -15421,7 +15421,7 @@ locale["quest.1011.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Jeder Rekrut muss diese Prüfung bestehen, um zu beweisen, dass er bereit für die zukünftige Reise ist. ...",
 	"jp": "",
 	"pt": "",
 	"vi": "Người mới phải làm bài thi thử, điều đó chứng tỏ một người đã sẵn sàng cho hành trình tương lai. ...",
@@ -15440,7 +15440,7 @@ locale["quest.1009.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Du scheinst das notwendige Zeug dazu zu haben. Lass mich dir einige Kniffe zeigen. Die könnten in zukünftigen Kämpfen nützlich sein.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi có vẻ đã có đủ tố chất. Để ta cho ngươi xem một vài động tác này. Chúng sẽ giúp ích cho các cuộc chiến của ngươi trong tương lai.",
@@ -15459,7 +15459,7 @@ locale["quest.1010.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Du scheinst das notwendige Zeug dazu zu haben. Lass mich dir einige Kniffe zeigen. Die könnten in zukünftigen Kämpfen nützlich sein.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi có vẻ đã có đủ tố chất. Để ta cho ngươi xem một vài động tác này. Chúng sẽ giúp ích cho các cuộc chiến của ngươi trong tương lai.",
@@ -15478,7 +15478,7 @@ locale["quest.1011.texts.description"] = {
 	"kr": "",
 	"ru": "",
 	"tr": "",
-	"de": "",
+	"de": "Du scheinst das notwendige Zeug dazu zu haben. Lass mich dir einige Kniffe zeigen. Die könnten in zukünftigen Kämpfen nützlich sein.",
 	"jp": "",
 	"pt": "",
 	"vi": "Ngươi có vẻ đã có đủ tố chất. Để ta cho ngươi xem một vài động tác này. Chúng sẽ giúp ích cho các cuộc chiến của ngươi trong tương lai.",
